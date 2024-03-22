@@ -4,7 +4,7 @@ A simple calculator built using HTML, CSS, and JavaScript. This calculator allow
 
 ## Preview
 
-![Calculator Preview](C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot (128).png)
+![Calculator Preview](calculatorpreview.png)
 
 ## Features
 
