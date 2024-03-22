@@ -1,4 +1,4 @@
-# Simple HTML, CSS, and JavaScript Calculator
+# Calculator
 
 A simple calculator built using HTML, CSS, and JavaScript. This calculator allows basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
